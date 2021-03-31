@@ -102,7 +102,44 @@
                                 </ul>
                                 <div class="tab-content" id="myTabContent">
                                     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-                                        <p>Pembayaran</p>
+                                        <br>
+                                        <div class="card mb-3" style="max-width: 100%;">
+                                            <div class="row no-gutters">
+                                                <div class="col-md-4">
+                                                <img src="..." class="card-img" alt="...">
+                                                </div>
+                                                <div class="col-md-8">
+                                                    <div class="card-body">
+                                                        <table class="table table-borderless">
+                                                            <thead>
+                                                                <tr>
+                                                                <th scope="col">Nama</th>
+                                                                <th scope="col">Harga</th>
+                                                                <th scope="col">Jumlah</th>
+                                                                <th scope="col">Total</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                <tr>
+                                                                <td>Mark</td>
+                                                                <td>Mark</td>
+                                                                <td>Otto</td>
+                                                                <td>@mdo</td>
+                                                                </tr>
+                                                            </tbody>
+                                                            </table>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            </div>
+
+
+
+
+
+
+
+
                                     </div>
                                     <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                                         <br>
